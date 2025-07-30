@@ -7,12 +7,12 @@ const data = {
       profileImage: "/public/gecici.png",
       socials: [
         {
-          logo: "/public/linkedin.png",
+          logo: "/public/images/linkedin.png",
           alt_text: "linkedin",
           link: "https://linkedin.com/in/example",
         },
         {
-          logo: "/public/github.png",
+          logo: "/public/images/github.png",
           alt_text: "github",
           link: "https://github.com/remzikoksal",
         },
@@ -113,12 +113,12 @@ basicInfo: {
       profileImage: "/public/gecici.png",
       socials: [
         {
-          logo: "/public/linkedin.png",
+          logo: "/public/images/linkedin.png",
           alt_text: "linkedin",
           link: "https://linkedin.com/in/example",
         },
         {
-          logo: "/public/github.png",
+          logo: "/public/images/github.png",
           alt_text: "github",
           link: "https://github.com/remzikoksal",
         },
