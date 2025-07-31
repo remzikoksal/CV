@@ -112,7 +112,7 @@ basicInfo: {
       intro: "Ben Remzi. Full-stack geliştiriciyim. Güçlü ve ölçeklenebilir frontend ürünleri geliştirebilirim. Hadi tanışalım!",
       profileImage: "/images/gecici.png",
       socials: [
-        {
+         {
           logo: "/images/linkedin.png",
           alt_text: "linkedin",
           link: "https://linkedin.com/in/example",
