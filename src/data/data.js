@@ -4,15 +4,15 @@ const data = {
     heroSection: {
       greeting: "Hi! 👋",
       intro: "I’m Remzi. I’m a full-stack developer. I can craft solid and scalable frontend products. Let’s meet!",
-      profileImage: "/public/gecici.png",
+      profileImage: "/images/gecici.png",
       socials: [
         {
-          logo: "/public/images/linkedin.png",
+          logo: "/images/linkedin.png",
           alt_text: "linkedin",
           link: "https://linkedin.com/in/example",
         },
         {
-          logo: "/public/images/github.png",
+          logo: "/images/github.png",
           alt_text: "github",
           link: "https://github.com/remzikoksal",
         },
