@@ -110,15 +110,15 @@ basicInfo: {
     heroSection: {
       greeting: "Merhaba! 👋",
       intro: "Ben Remzi. Full-stack geliştiriciyim. Güçlü ve ölçeklenebilir frontend ürünleri geliştirebilirim. Hadi tanışalım!",
-      profileImage: "/public/gecici.png",
+      profileImage: "/images/gecici.png",
       socials: [
         {
-          logo: "/public/images/linkedin.png",
+          logo: "/images/linkedin.png",
           alt_text: "linkedin",
           link: "https://linkedin.com/in/example",
         },
         {
-          logo: "/public/images/github.png",
+          logo: "/images/github.png",
           alt_text: "github",
           link: "https://github.com/remzikoksal",
         },
